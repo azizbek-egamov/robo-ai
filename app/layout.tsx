@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin", "cyrillic"] })
 export const metadata: Metadata = {
   title: "RoboLearn - Robotics & AI for Students",
   description: "Learn robotics and artificial intelligence through practical projects",
-    generator: 'v0.dev'
+    generator: 'ardentsoft.uz'
 }
 
 export default function RootLayout({
